@@ -29,4 +29,5 @@ O projeto foi estruturado para permitir a integração futura com algoritmos de 
 
 ---
 **Desenvolvido por:** Guilherme Monteiro
+
 **Curso:** Inteligência Artificial - FIAP
