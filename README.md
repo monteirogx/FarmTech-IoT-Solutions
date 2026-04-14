@@ -24,14 +24,6 @@ O sistema opera com uma lógica de prioridade para garantir a saúde da planta e
 No Monitor Serial, o sistema exibe a mensagem:
 `>>> IRRIGANDO (Solo Seco ou Ácido) <<<` sempre que uma dessas condições é atendida, garantindo que o agricultor saiba que a irrigação está em curso para manutenção ou correção química (fertirrigação).
 
-## 📸 Circuito do Projeto
-![Circuito FarmTech Solutions](farmtech_solutions.png)
-*(Certifique-se de que a imagem no seu GitHub tenha exatamente este nome)*
-
-## 📂 Organização do Repositório
-* `/src`: Arquivo `main.ino` com o código C++ desenvolvido.
-* `/assets`: Imagens do projeto e arquivo `diagram.json`.
-
 ## 🚀 Expansão Futura
 O projeto foi estruturado para permitir a integração futura com algoritmos de **Inteligência Artificial**, utilizando os dados históricos de umidade e pH para prever necessidades hídricas antes mesmo do solo atingir níveis críticos.
 
